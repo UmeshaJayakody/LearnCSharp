@@ -9,9 +9,9 @@ namespace MyApp
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello, World");
-            await Task.Delay(1000); // Simulate some async work
-            Console.WriteLine("Goodbye, World");
+            Console.WriteLine("Hello, World !");
+            await Task.Delay(1000);
+            Console.WriteLine("Goodbye, World !");
         }
     }
 }
