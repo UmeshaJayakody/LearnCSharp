@@ -13,6 +13,7 @@ namespace MyApp
             bool isEmployed = true;
 
             // Print variable values
+            Console.WriteLine("Variable Values: " + name + " , " + age + " , " + isEmployed);
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Age: {age}");
             Console.WriteLine($"Employed: {isEmployed}");
