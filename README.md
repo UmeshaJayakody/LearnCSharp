@@ -4,15 +4,16 @@ This repository is for learning C# programming language fundamentals.
 
 ## How to Run
 
-To run the C# files in this project, use the following command:
+To run the C# project, use the following command from the parent directory:
 
 ```bash
-dotnet run
+dotnet run --project CSharp
 ```
 
-Note: Make sure you're in the project directory (CSharp folder) when running the command. The `dotnet run` command will execute the entire C# project, not individual `.cs` files.
+This command ensures the entire project is executed. Make sure you have the .NET SDK installed and are in the correct directory.
 
 ## Project Structure
 
 - `Variables.cs` - Examples of variable declarations and usage
-- `Program.cs` - Main program file
+- `DataTypes.cs` - Examples of different C# data types
+- `Program.cs` - Main program file that orchestrates the examples

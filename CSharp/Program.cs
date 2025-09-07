@@ -7,11 +7,26 @@ namespace MyApp
 {
     class Program
     {
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World !");
-            await Task.Delay(1000);
-            Console.WriteLine("Goodbye, World !");
+            Console.WriteLine("=== C# Learning Examples ===\n");
+            
+            // Run Variables example
+            Variables.RunVariablesExample();
+            
+            Console.WriteLine(); // Add empty line
+            
+            // Run Data Types example
+            DataTypes.RunDataTypesExample();
+            
+            Console.WriteLine(); // Add empty line
+            
+            // Run Strings example
+            Strings.RunStringsExample();
+
+
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
         }
     }
 }

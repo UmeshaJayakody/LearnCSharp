@@ -5,7 +5,7 @@ namespace MyApp
 {
     class Variables
     {
-        static void Main(string[] args)
+        public static void RunVariablesExample()
         {
             // Declare and initialize variables
             int age = 30;
@@ -13,6 +13,7 @@ namespace MyApp
             bool isEmployed = true;
 
             // Print variable values
+            Console.WriteLine("=== Variables Example ===");
             Console.WriteLine("Variable Values: " + name + " , " + age + " , " + isEmployed);
             Console.WriteLine($"Name: {name}");
             Console.WriteLine($"Age: {age}");
