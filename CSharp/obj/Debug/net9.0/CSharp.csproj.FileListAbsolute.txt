@@ -1,0 +1,15 @@
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\bin\Debug\net9.0\CSharp.exe
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\bin\Debug\net9.0\CSharp.deps.json
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\bin\Debug\net9.0\CSharp.runtimeconfig.json
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\bin\Debug\net9.0\CSharp.dll
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\bin\Debug\net9.0\CSharp.pdb
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.AssemblyInfo.cs
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.sourcelink.json
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.dll
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\refint\CSharp.dll
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.pdb
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\CSharp.genruntimeconfig.cache
+C:\Users\umesh\OneDrive\Desktop\C#\CSharp\obj\Debug\net9.0\ref\CSharp.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\CSharp\\CSharp.csproj",
+      "projectName": "CSharp",
+      "projectPath": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\CSharp\\CSharp.csproj",
       "packagesPath": "C:\\Users\\umesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\umesh\\OneDrive\\Desktop\\C#\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\umesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
